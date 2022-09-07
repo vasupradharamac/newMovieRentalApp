@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Aquaman",
+    "year": "2018",
+    "genre": "Action|Adventure|Fantasy",
+    "director": "James Wan",
+    "desc": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "cast": "Jason Momoa, Amber Heard, Willem Dafoe",
+    "imgUrl": "Aquaman_(film)_poster.jpg"
+  },
+  {
+    "title": "Avatar",
+    "year": "2009",
+    "genre": "Action|Adventure|Fantasy",
+    "director": "James Cameron",
+    "desc": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+    "imgUrl": "Avatar_(2009_film)_poster.jpg"
+  },
+  {
+    "title": "The Avengers",
+    "year": "2012",
+    "genre": "Action|Adventure|Sci-Fi",
+    "director": "Joss Whedon",
+    "desc": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "cast": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+    "imgUrl": "Avengers_Endgame_poster.jpg"
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Action|Adventure|Sci-Fi",
+    "director": "Christopher Nolan",
+    "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "imgUrl": "Inception_(2010)_theatrical_poster.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Adventure|Drama|Sci-Fi",
+    "director": "Christopher Nolan",
+    "desc": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "imgUrl": "Interstellar_film_poster.jpg"
+  },
+  {
+    "title": "Lucy",
+    "year": "2014",
+    "genre": "Action|Sci-Fi|Thriller",
+    "director": "Luc Besson",
+    "desc": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "cast": "Scarlett Johansson, Morgan Freeman, Choi Min-sik",
+    "imgUrl": "Lucy_(2014_film)_poster.jpg"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003",
+    "genre": "Action|Adventure|Fantasy",
+    "director": "Gore Verbinski",
+    "desc": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "cast": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+    "imgUrl": "Pirates_of_the_Caribbean_-_On_Stranger_Tides.png"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action|Crime|Drama",
+    "director": "Christopher Nolan",
+    "desc": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cast": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "imgUrl": "The_Dark_Knight_(2008_film).jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King (2003) - Featuring That's What I'm Tolkien About",
+    "year": "2003",
+    "genre": "N/A",
+    "director": "N/A",
+    "desc": "N/A",
+    "cast": "N/A",
+    "imgUrl": "The_Lord_of_the_Rings_-_The_Return_of_the_King_(2003).jpg"
+  },
+  {
+    "title": "Titanic",
+    "year": "1997",
+    "genre": "Drama|Romance",
+    "director": "James Cameron",
+    "desc": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+    "imgUrl": "Titanic_(1997_film)_poster.png"
+  }
+]
